@@ -38,8 +38,9 @@ A WoW Forever add-on for hunters that buys your ammo for you at vendors, warns y
 The top of the tab shows your weapon, your ammo and how many shots you have, and whether your quiver or pouch fits your weapon.
 
 **Alerts tab**
-- Low ammo warning on or off, the number of shots it warns at, and its sound
-- Aspect reminder on or off, for Cheetah and Pack separately, and its sound
+- Low ammo warning on or off, and the number of shots it warns at
+- Aspect reminder on or off, for Cheetah and Pack separately
+- A sound for each warning: pick a preset, or search every named game sound by name or sound ID. Each sound has a play button to preview it, which turns into a stop button while it plays
 - Test buttons for both warnings
 
 ## Commands
