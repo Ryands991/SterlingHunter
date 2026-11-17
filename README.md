@@ -1,4 +1,6 @@
-# Sterling Hunter
+<p align="center"><img src="docs/icon.png" width="128" alt="Sterling Hunter icon"></p>
+
+<h1 align="center">Sterling Hunter</h1>
 
 A WoW Forever add-on for hunters that buys your ammo for you at vendors, warns you before you run out, and reminds you when a travel aspect is still on in combat.
 
