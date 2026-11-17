@@ -18,9 +18,11 @@ A WoW Forever add-on for hunters that buys your ammo for you at vendors, warns y
 - Equips the new ammo after you close the vendor if it bought a different kind
 - Hold Shift while opening a vendor to skip it that time
 
-**Low ammo warning**
-- A warning in the middle of your screen, with a sound, when you drop below a set number of shots
-- A second warning when you run out
+**Low ammo warnings**
+- A first warning in the middle of your screen, with a sound, when you drop to a set number of shots
+- Optional repeats every so many shots after that (for example at 600, then 500, 400 and so on)
+- A critical warning with its own sound when you're nearly out. If it lands on the same number as a normal warning, only the critical one plays
+- One more warning when you run out
 
 **Aspect reminder**
 - Warns you at the start of combat, and every few seconds after, if Aspect of the Cheetah or Aspect of the Pack is still on
@@ -38,10 +40,10 @@ A WoW Forever add-on for hunters that buys your ammo for you at vendors, warns y
 The top of the tab shows your weapon, your ammo and how many shots you have, and whether your quiver or pouch fits your weapon.
 
 **Alerts tab**
-- Low ammo warning on or off, and the number of shots it warns at
+- Low ammo: first warning, repeat every X shots (on or off), critical warning (on or off) and the shot counts for each. A line underneath shows every count it will warn at
 - Aspect reminder on or off, for Cheetah and Pack separately
-- A sound for each warning: pick a preset, or search every named game sound by name or sound ID. Each sound has a play button to preview it, which turns into a stop button while it plays
-- Test buttons for both warnings
+- A sound for each warning: five alarm sounds made for Sterling (Klaxon, Hi-Lo Alarm, Siren, Triple Beep, Alarm Bell), the game's own warning and alarm sounds, or search every named game sound by name or sound ID. Each sound has a play button to preview it, which turns into a stop button while it plays
+- Test buttons for each warning
 
 ## Commands
 
