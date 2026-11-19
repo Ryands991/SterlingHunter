@@ -25,7 +25,8 @@ A WoW Forever add-on for hunters that buys your ammo for you at vendors, warns y
 - One more warning when you run out
 
 **Aspect reminder**
-- Warns you at the start of combat, and every few seconds after, if Aspect of the Cheetah or Aspect of the Pack is still on
+- Warns you at the start of combat, and every few seconds after, if Aspect of the Cheetah or Aspect of the Pack is still on. WoW Forever hides your buffs in combat, so it follows the aspects you cast
+- A "Dazed!" alert every time you get dazed while one of them is on
 
 ## Settings
 
@@ -41,7 +42,7 @@ The top of the tab shows your weapon, your ammo and how many shots you have, and
 
 **Alerts tab**
 - Low ammo: first warning, repeat every X shots (on or off), critical warning (on or off) and the shot counts for each. A line underneath shows every count it will warn at
-- Aspect reminder on or off, for Cheetah and Pack separately
+- Aspect reminder on or off, for Cheetah and Pack separately, and the dazed alert
 - A sound for each warning: five alarm sounds made for Sterling (Klaxon, Hi-Lo Alarm, Siren, Triple Beep, Alarm Bell), the game's own warning and alarm sounds, or search every named game sound by name or sound ID. Each sound has a play button to preview it, which turns into a stop button while it plays
 - Test buttons for each warning
 
@@ -70,6 +71,7 @@ Or download the zip from [Releases](https://github.com/SterlingAddons/SterlingHu
 
 - [Sterling Quest Sync](https://github.com/SterlingAddons/SterlingQuest) (formerly Sterling Quest Tracker): follow a friend's session and keep quest logs in sync. Works with the optional **Sterling Quest Sync Companion** app.
 - [Sterling Loot Tracker](https://github.com/SterlingAddons/SterlingLoot): see who picked Need, Greed or Pass on every roll, with a roll history and gear sources.
+- [Sterling Cast & Swing](https://github.com/SterlingAddons/SterlingCast): a cast bar and swing timer for every class, with the auto shot timer for hunters.
 
 ## License
 
